@@ -8,11 +8,14 @@ We've been tasked with analyzing June and December temperature trends to help de
 - SQLite, SQLAlchemy, and Flask
 
 ## Summary
-As shown in the table below, among our sample collected, both the average fare per ride and average fare per driver were less in Urban areas and most in Rural areas.  There is no adjustment for miles traveled in the data, so one possible explanation is that trip distance is lower in Urban areas, which would lead to a lower fare per ride.  
+As shown in the summary tables below, while there is a slight dip in temperature in December, it is likely still warm enough, on average to support, an ice-cream shop. Three key takeaways:
+  - mean temperature in June is 77 degrees versus 71 degrees in December.
+  - There is slighlty more variation in the December data versus the June data, but not much.  The standard deviation in June, for example, versus December is 2.6 degrees versus 3.4 degrees, respectively.
+  - June min temp was 71 degrees versus 60 degrees for December data.  
 
 ![png](June_temps.png)
 
 ![png](December_temps.png)
 
 ## Recommendations
-To address disparities in fares between rides, one recommendation is to charge different rates between Urban, Suburban, and Rural areas.  Another recommendation is to add an upfront fee that is contigent on the type of area.  A final recommendation is to tie rates to miles traveled so that the first mile is the most expensive, and gradually declines as vehicle miles increase.    
+Two additional queries that could be run would be to assess rain levels in both months and percent of days that were sunny versus cloudy.     
