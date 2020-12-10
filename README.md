@@ -13,9 +13,9 @@ As shown in the summary tables below, while there is a slight dip in temperature
   - There is slighlty more variation in the December data versus the June data, but not much.  The standard deviation in June, for example, versus December is 2.6 degrees versus 3.4 degrees, respectively.
   - June min temp was 71 degrees versus 60 degrees for December data.  
 
-![png](June_temps.png)
+![png](June_temps1.png)
 
-![png](December_temps.png)
+![png](December_temps1.png)
 
 ## Recommendations
 Two additional queries that could be run would be to assess rain levels in both months and percent of days that were sunny versus cloudy.     
