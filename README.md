@@ -15,7 +15,7 @@ As shown in the summary tables below, while there is a slight dip in temperature
 
 ![png](June_temps1.png)
 
-![png](December_temps1.png)
+![png](December_temps_1.png)
 
 ## Recommendations
 Two additional queries that could be run would be to assess rain levels in both months and percent of days that were sunny versus cloudy.     
