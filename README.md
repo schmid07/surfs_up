@@ -9,9 +9,9 @@ We've been tasked with analyzing June and December temperature trends to help de
 
 ## Summary
 As shown in the summary tables below, while there is a slight dip in temperature in December, it is likely still warm enough, on average to support, an ice-cream shop. Three key takeaways:
-  - mean temperature in June is 77 degrees versus 71 degrees in December.
-  - There is slighlty more variation in the December data versus the June data, but not much.  The standard deviation in June, for example, versus December is 2.6 degrees versus 3.4 degrees, respectively.
-  - June min temp was 71 degrees versus 60 degrees for December data.  
+  - mean temperature in June is 75 degrees versus 71 degrees in December.
+  - There is slighlty more variation in the December data versus the June data, but not much.  The standard deviation in June, for example, versus December is 3.3 degrees versus 3.7 degrees, respectively.
+  - June min temp was 64 degrees versus 56 degrees for December data.  
 
 ![png](June_temps1.png)
 
